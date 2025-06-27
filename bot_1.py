@@ -7,7 +7,7 @@ import urllib
 from urllib import parse, request
 import re
 
-token='ODI5MDQ5NDE4MzEyNzEyMTkz.YGyecA.b8Lm1g3RzaJ6AhFQpZwLuvYujAs'
+token=''
 
 client = commands.Bot(command_prefix='>')
 
